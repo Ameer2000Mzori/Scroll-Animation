@@ -1,3 +1,5 @@
+import "./style.css";
+
 // selecting our elements
 var boxes = document.querySelectorAll(".box");
 

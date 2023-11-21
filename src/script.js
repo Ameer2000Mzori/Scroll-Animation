@@ -1,3 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+require("./style.css");
 // selecting our elements
 var boxes = document.querySelectorAll(".box");
 // functions
