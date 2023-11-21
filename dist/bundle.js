@@ -1,1 +1,1 @@
-console.log("hallo world");
+(()=>{var e=document.querySelectorAll(".box");window.addEventListener("scroll",(function(){var n=window.innerHeight/5*4;e.forEach((function(e){e.getBoundingClientRect().top<n?e.classList.add("show"):e.classList.remove("show")}))}))})();
